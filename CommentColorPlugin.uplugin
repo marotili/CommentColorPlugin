@@ -1,0 +1,23 @@
+{
+	"PluginFileVersion" : 3,
+
+	"FriendlyName" : "Comment Color Plugin",
+	"Version" : 1,
+	"VersionName" : "0.1",
+	"CreatedBy" : "Marco Fruhwirth",
+	"CreatedByURL" : "",
+	"EngineVersion" : 1579795,
+	"Description" : "",
+	"Category" : "Comment Color Plugin",
+	
+	"Modules" :
+	[		
+		{
+
+			"Name" : "CommentColorPlugin",
+			"Type" : "Editor",
+			"LoadingPhase" : "PostDefault"
+		
+		}
+	]
+}
